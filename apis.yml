@@ -1,0 +1,32 @@
+aid: apicagent
+name: ApicAgent
+description: "Extract device details from user-agent string"
+url: https://www.apicagent.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: ApicAgent
+    description: "Extract device details from user-agent string"
+    humanURL: https://www.apicagent.com
+    baseURL: https://www.apicagent.com
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://www.apicagent.com
+common:
+  - type: Website
+    url: https://www.apicagent.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

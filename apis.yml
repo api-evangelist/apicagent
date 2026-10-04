@@ -39,7 +39,6 @@ apis:
   - name: ApicAgent
     description: "Extract device details from user-agent string"
     humanURL: https://www.apicagent.com
-    baseURL: https://www.apicagent.com
     tags:
       - Development
     properties:

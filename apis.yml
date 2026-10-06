@@ -27,7 +27,7 @@ description: "Extract device details from user-agent string"
 url: https://www.apicagent.com
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Development"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://www.apicagent.com
 common:
+  - url: https://www.apicagent.com/blog
+    type: Blog
   - type: DomainSecurity
     url: security/apicagent-domain-security.yml
   - type: Website
